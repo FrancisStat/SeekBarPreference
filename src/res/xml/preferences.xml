@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:sbp="http://schemas.android.com/apk/res/com.yourpackage.www">
+
+    <com.yourpackage.www.SeekBarPreference
+            android:key="aUniqueKey"
+            android:title="aCoolTitle"
+            android:defaultValue="10"
+            sbp:maxValue="20"
+    />
+</PreferenceScreen>
