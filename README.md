@@ -1,5 +1,5 @@
 # SeekBarPreference
-SeekBar for Android Preference
+SeekBar for Android Preferences
 
 This is a simple SeekBar for Android Preference. Feel free to add it to your own project and modify it to accommodate your needs.
 
